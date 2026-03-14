@@ -3,7 +3,7 @@
 <h3 align="center">Machine learning Engineer/Data science Enthusiast and Web/Mobile Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
-- 🔭 I’m currently working on **Web Applications**
+- 🔭 I’m currently working on **building technology that solves real world problems**
 
 - 📫 How to reach me: **mohammed.abdalllah33@gmail.com**
 
